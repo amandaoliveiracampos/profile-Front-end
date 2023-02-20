@@ -25,6 +25,7 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: #22d4fd;
+  text-decoration: none;
 }
 .apresentacao {
   padding: 5% 15%;
